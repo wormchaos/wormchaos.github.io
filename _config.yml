@@ -1,4 +1,5 @@
 # Site settings
+title: 虫窝 
 name: 虫窝
 email: wormchaos@126.com
 author: wormchaos
@@ -22,5 +23,5 @@ github_username: wormchaos
 # Build settings
 markdown: kramdown
 
-baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+baidu_analysis: e411ef0ea7ddb6b188679f8383b5a44b
 
