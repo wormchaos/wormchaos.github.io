@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  Self-Examination From An Examination
 date:   2019-03-21 21:30:00 +0800
@@ -15,7 +15,7 @@ tag: java
 
 今天朋友给我发了一张笔试截图(如图)，一眼看去我居然有好多不会的。
 
-![examination](https://www.zybuluo.com/static/img/logo.png)
+![examination](/styles/images/java/examination.jpg)
 
 有点开始怀疑自己的实力，白写了这么多年代码。就拿这张试题来验证一下自己。
 如果这就是一场面试，我能拿几分呢
