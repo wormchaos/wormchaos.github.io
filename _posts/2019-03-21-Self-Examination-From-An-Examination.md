@@ -24,7 +24,8 @@ tag: java
 
 答题			{#examination}
 ====================================
-```1、因为在java虚拟机中String是存在常量内存中的
+```
+1、因为在java虚拟机中String是存在常量内存中的
 
 2、通过把对象加密成hash
 
@@ -82,7 +83,8 @@ GC的核心逻辑是清理数据碎片。一般情况下有几个区，一个是
 
 答题总结			{#summary}
 ====================================
-```1、缺乏对近两年新技术的了解。比如java11、spring boot、springcloud、hystrix
+```
+1、缺乏对近两年新技术的了解。比如java11、spring boot、springcloud、hystrix
 
 2、基础内容一知半解，没有深入
 
